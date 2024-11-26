@@ -6,11 +6,11 @@
 
 ## 总图：
 
-<img src="./total.png" alt="mul4">
+<img src="./src/total.png" alt="mul4">
 
 ## Q：
 
-<img src="./Q.png" alt="mul4">
+<img src="./src/Q.png" alt="mul4">
 
 ### 输入：
 
@@ -26,11 +26,11 @@ out_eight:用于数码管显示
 
 ## X:
 
-<img src="./X.png" alt="mul4">
+<img src="./src/X.png" alt="mul4">
 
 ## A:
 
-<img src="./A.png" alt="mul4">
+<img src="./src/A.png" alt="mul4">
 
 
 ### 输入：
@@ -48,7 +48,7 @@ out_eight:用于数码管显示
 
 ## cnt:
 
-<img src="./cnt.png" alt="mul4">
+<img src="./src/cnt.png" alt="mul4">
 
 ### 输入：
 
@@ -62,7 +62,7 @@ stop:控制多路复用器，切换时钟信号为常量
 
 # 演示视频：
 
-[点击下载视频](./video.mp4)
+[点击下载视频](./src/video.mp4)
 
 > 注意：由于Markdown文件的安全限制，视频无法直接在本地播放。请点击上方链接下载后观看。
 
